@@ -16,4 +16,4 @@ Geopy ---------------------------> used for the search function, specifically us
 
 This app does not store any imputs, addresses or calculated numbers.
 
-This app was just a fun little project when I was bored one day, not looking for serious updates or additions but, I wont stop you if you have something that works.
+This app was just a fun little project when I was bored one day, not looking for serious updates or additions but if you insist, just go for it.
