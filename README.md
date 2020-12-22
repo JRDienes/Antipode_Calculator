@@ -1,7 +1,7 @@
 # Antipode_Calculator
 This app will show you the exact opposite point on Earth of a given location.  
 
-Have you ever been so curious as to wonder where the opposite side of the Earth is from where you are? Maybe you figure its somewhere there is land, specifically somewhere in East Asia? 
+Have you ever been so curious as to wonder where the opposite side of the Earth is from where you are? Maybe you figure its somewhere where there is land, specifically somewhere in East Asia? 
 Well question no longer, type in an adress, the name of a state or country and see where it is. Ff you are in North America, Im sorry to spoil it but its in the Southern Indian Ocean.
 
 
