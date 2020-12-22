@@ -8,7 +8,9 @@ Well question no longer, type in an adress, the name of a state or country and s
 The dependencies used in this project are
 
 Cartopy -------------------------> used for the display map 
+
 Matplotlib ----------------------> used to draw on the map
+
 Geopy ---------------------------> used for the search function, specifically using Nominatim
 
 
