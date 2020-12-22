@@ -50,31 +50,34 @@ def anti_long(long):
         antiLong = (180 - (abs(long)))
     return antiLong
 
+
+
+
 # these were to convert the directions from the manual coords
 # this is definately not here just to make me feel better... pointless
 
 
-def direction_reverse_lat(lat_direction):
-    if lat_direction == "N":
-        anti_lat_direction = lat_direction.replace("N","S")
-    elif lat_direction == "S":
-        anti_lat_direction = lat_direction.replace("S","N")
-    elif lat_direction == "n":
-        anti_lat_direction = lat_direction.replace("n","S")
-    elif lat_direction == "s":
-        anti_lat_direction = lat_direction.replace("s","N")
-    return anti_lat_direction
+# def direction_reverse_lat(lat_direction):
+#     if lat_direction == "N":
+#         anti_lat_direction = lat_direction.replace("N","S")
+#     elif lat_direction == "S":
+#         anti_lat_direction = lat_direction.replace("S","N")
+#     elif lat_direction == "n":
+#         anti_lat_direction = lat_direction.replace("n","S")
+#     elif lat_direction == "s":
+#         anti_lat_direction = lat_direction.replace("s","N")
+#     return anti_lat_direction
     
-def direction_reverse_long(long_direction):
-    if long_direction == "E":
-        anti_long_direction = long_direction.replace("E","W")
-    elif long_direction == "W":
-        anti_long_direction = long_direction.replace("W","E")
-    elif long_direction == "e":
-        anti_long_direction = long_direction.replace("e","W")
-    elif long_direction == "w":
-        anti_long_direction = long_direction.replace("w","E")
-    return anti_long_direction
+# def direction_reverse_long(long_direction):
+#     if long_direction == "E":
+#         anti_long_direction = long_direction.replace("E","W")
+#     elif long_direction == "W":
+#         anti_long_direction = long_direction.replace("W","E")
+#     elif long_direction == "e":
+#         anti_long_direction = long_direction.replace("e","W")
+#     elif long_direction == "w":
+#         anti_long_direction = long_direction.replace("w","E")
+#     return anti_long_direction
 
 #------this is so it rounds the displayed coords to 2 decimals
 # I didnt know where else to put it
