@@ -5,7 +5,7 @@ Have you ever been so curious as to wonder where the opposite side of the Earth 
 Well question no longer, type in an adress, the name of a state or country and see where it is. Ff you are in North America, Im sorry to spoil it but its in the Southern Indian Ocean.
 
 
-The dependencies used for this project are
+The dependencies used for this project are:
 
 Cartopy -------------------------> used for the display map 
 
